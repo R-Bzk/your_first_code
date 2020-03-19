@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head> <title>  </title>
+    <link rel="stylesheet" type="css" href="style.css">
+</head>
+
+<body>
+  <nav="landbot.io"> 
+    <button>Landbot.io </button>
+     <ul> 
+      <li> Products  </li>
+      <li> Blog  </li>
+      <li> Support   </li>
+      <li>  Pricing  </li> 
+      </ul>
+      <button> Sign in   </button>
+      <button>  Get started  </button>
+      </nav>
+
+<nav="Chatbot">
+   
+    <p> The Most Intuitive
+       <br> No Code Chatbot Builder   </p>
+    <p> Engage leads, capture data and
+       <br> personalize client journeys in real-time.   </p>
+  <div="Livechat">
+      <p> Hi again! How can I help you? </p>
+    <img src="">
+    <button> Order information </button>
+    <button> I need help </button> 
+  </div>
+  <div="Whatsapp"> 
+    <p> Whatsapp message</p>
+    <button>Send Push Notification </button>
+  </div>
+  <div="Googlesheet"> 
+   <p>  Google Sheets </p>
+   <p>  Get user data from 'Customers Sheet' </p>
+ </div>
+
+</nav>
+<nav="Partenaires"> 
+<p>Empowering +50,000 businesses creating memorable experiences </p>
+<button> Metlife </button>
+<button>  Uber</button>
+<button>  LG </button>
+<button> T system </button>
+<button> L'oreal paris  </button>
+</nav>
+    <div class="first-p"> 
+    <p> <i> Relationships start with conversations.</i>
+      We take care of them. </p>
+    Whatsapp
+    <p>Landbot manages and automates conversations on the main messaging channels
+       to help you convert smarter, every time. Design, deploy and analyze your 
+       conversational strategies from the same place, sending the information across
+        without a single line of code.</p> 
+     </div>
+<div class="container1">
+ <h1> Capture leads on your website </h1>
+ <p> From getting more leads to a better
+<br>customer support.Whatever you do with 
+<br> messaging, you can do it in Landbot.  </p>
+</div>
+<div class="container2">
+ <h1> Engage with users on WhatsApp </h1>
+ <p> Take advantage of pro-active messaging 
+  <br> in the #1 messaging channel using our 
+  <br>intuitive campaign manager.</p>
+</div>
+ <div class="container3">
+ <p>Great  <e>Customer Experience</e>:
+ <br>from Exception to Rule.</p>
+ <p> Landbot messaging manager provides you with the tools to create frictionless, 
+     engaging and overall memorable customer experiences. </p>
+</div>
+<nav class="box-container">
+    <div class="box"> 
+        <img src="">
+     <p> Get more and better
+       <br> leads.  </p>
+    <p> Engagement leads to better conversion. Our customers average 48%*. </p>
+    </div>
+    <div class="box"> 
+        <img src="">
+        <p> Provide bot-human 
+            <br> support  </p>
+       <p> Get your team collaborating and 
+          <br> taking action, seamlessly 
+          <br> transferring conversations from 
+          <br> bot to human, and back.. </p>
+       </div>
+    <div class="box">
+        <img src="">
+        <p> Cover the full customer journey </p>
+        <p>    From visitors to leads, from 
+         <br>   subscribers to happy customers. 
+         <br>   Design your full messaging-based user 
+         <br>   journey.     </p>
+   </div>
+</nav>
+<div class="container-flow">
+ <p> <i>Flow building</i> that feels like connecting dots  </p>
+ <p> Design powerful automated conversations for 
+ <br>WhatsApp, web or Facebook Messenger and 
+ <br>integrate them with the tools you already use. 
+ <br>Everything happens in real-time, with your users' 
+ <br>choices conditioning the journey. Jump into the 
+ <br>conversation with them, send their information to 
+ <br>your CRM or use their data to customize and 
+ <br>trigger campaigns over instant messaging. </p>
+ <img src=""> 
+</div>
+ <div class="container-messaging">
+<p><e>From visitor to loyal customer,</e>
+   <br> with Instant Messaging.</p>
+<p> With Landbot you can build user journeys that 
+    <br>connect your web to your CRM, your team to your 
+    <br>WhatsApp account. An conversational form 
+    <br>updates a Salesforce lead and gets you a new 
+    <br>WhatsApp subscriber. The subscriber receives an 
+    <br>appointment reminder from your sales team. You 
+    <br>design the flow, the 'code' is on us. </p>
+<p>We know what the conversation is about. It's 
+    <br>about helping marketers on their way to 
+    <br>conversion nirvana. About empowering sales 
+    <br>teams so they can be where their future 
+    <br>customers are, every time. About making life 
+    <br>easier for our support folks.</p>
+ </div>
+<div class="end-box">
+    <a href="">
+    <img border="0"; src=""; width="100"; height="700">
+    </a>
+ <p> <i>Create Personalized Conversational</i>
+    <br>Experiences at Scale anywhere/anytime</p>  
+
+<button>Sign up and try it today </button>
+
+
+
+</div>
+<h1>  </h1>
+
+</nav> 
+</body>
+<footer> 
+  <div class="end-bar">  
+       <h1> Landbot.io  </h1>
+       <p>Copyright © 2020
+       <br> HELLO UMI S.L. </p> 
+     <h1> Producto  </h1>
+     <ul>
+         <li>Features </li>
+         <li> Pricing </li>
+         <li> Jobs   </li>
+    <h1> Company  </h1>     
+         <li>  Blog  </li>
+         <li> About landbot   </li>
+    <h1> Need help ?  </h1> 
+      <li>Developers   </li>
+      <li> Knowledge Base </li>
+      <li> Terms & Conditions </li>
+    <h1> Folow us </h1>
+      <a href="">  
+          
+      </a>
+
+    </ul>
+ </div>
+
+</footer>
+</html>
