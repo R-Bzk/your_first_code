@@ -1,0 +1,290 @@
+.nav-list
+{
+    padding-top: 70px;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.logo-nav
+{
+    width: 50px;
+    height: 50px;
+}
+
+.btn-nav
+{
+    width: 120px;
+    height: 50px;   
+    border-radius: 10%;
+    border-color: rgb(214, 218, 222); 
+    background-color: transparent;
+    color: rgb(54, 57, 69);
+    
+}
+ 
+.item-nav
+{
+    margin-right: 20px;
+} 
+
+.span-nav
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.btn1
+{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.btn2
+{
+    background-color: blue;
+    color: white;
+}
+
+.main-nav
+{
+   background-color: whitesmoke;
+   /* border: 1px whitesmoke solid */
+}
+
+*,html 
+{
+    margin: 0;
+    padding: 0;
+}
+/*section one css : */ 
+
+.video-description
+{
+   font-size: 2em;
+   padding-left: 10vw;
+   padding-top:20vh;
+}
+
+.section-one
+{
+    background-color: #CEA0AF;
+    height: 500px;
+    display: flex;
+    
+    
+}
+
+.btn-div-one
+{
+    text-align: center;
+    width: 200px;
+    height: 80px;
+    border-radius: 10%;
+    
+    
+}
+
+.video-content
+{
+    padding-left:350px ;
+}
+/*section two */  
+
+.section-two 
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    
+}
+
+.section-two-div-one,.section-two-div-two,.section-two-div-three
+{
+    
+    padding: 5%;
+    background-color: #FED24A;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.str
+{
+    background-color: transparent;
+    width: 50%;
+}
+
+.str:hover 
+{
+    background-color: white;
+}
+.start:hover .oneIcon
+{
+    fill:white;
+}
+.startTwo:hover~.twoIcon
+{
+    fill: white;
+}
+.startThree:hover~.threeIcon
+{
+    fill: white;
+}
+/*section three */ 
+.section-three
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+     
+}
+.section-three-div-item
+{
+    width: 80%;
+    max-width: 120px;
+    height: 60%;
+    max-height: 170px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.section-four
+{
+    display: flex;
+    justify-content: space-around;
+   
+   
+}
+
+.image-section-four
+{
+    max-width: 300px;
+    cursor: pointer;
+}
+.carte
+{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   padding-left: 4%;
+   padding-top: 4%;
+   padding-bottom: 4%;
+    
+   
+}
+.section-five
+{
+    background-color: #EFEFEF;
+    padding: 25px 40px;
+    text-align: center;
+}
+.markdown
+{
+    color: #363945;
+    font-size: 18px;
+}
+/*footer*/ 
+.main-footer
+{
+   display: flex;
+   padding-top: 60px;
+   padding-left: 60px;
+   padding-right: 60px;
+   background-color: black;
+   color: white;
+   flex-wrap: wrap;
+   
+}
+.main-footer li
+{
+    padding-bottom: 15px;
+}
+.main-footer ul
+{
+   list-style-type: none;
+}
+.main-footer a 
+{
+    text-decoration: none;
+    color: white;
+}
+.main-footer div
+{
+    flex-grow: 1;
+}
+.div-one-footer
+{
+    flex-grow: 4;
+    margin-right: 150px;
+}
+.hr-footer
+{
+    
+    border-right: 1px solid white;
+    height: 200px;
+    margin: 65px 0;
+    opacity: .1;
+    width: 1px;
+}
+.last-footer
+{
+    color: rgb(178, 185, 193);
+    text-align: center;
+    padding-bottom: 50px;
+}
+/*drop down menu */ 
+.dropdown-menu
+{
+    position: relative;
+ 
+}
+.drop-down-section
+{
+   width: 105vw;
+   height: 250px;
+   background-color: whitesmoke;
+   display: none;
+   position: absolute;
+   left:-250px;
+   
+}
+.item-nav:hover .drop-down-section
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.NavbarMenu__item__carrot svg {
+    vertical-align: top;
+}
+.svg[Attributes ] {
+    fill: none;
+    fill-rule: evenodd;
+    stroke: currentcolor;
+    stroke-linecap: round;
+    stroke-width: 1;
+}
+.drop-down-section ul
+{
+list-style-type: none;
+}
+.image-section-four:hover
+{
+    opacity: 0.5;
+    
+}
+.dropdown-menu:hover  .drop-down-bar-ul{
+  
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;  
+}
